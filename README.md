@@ -1,6 +1,4 @@
-# TeddyPups U.A.E. — React website recreation
 
-A fresh React + Vite recreation project based on the publicly visible pages and content of https://puppy.instabizweb.com/.
 
 ## Run locally
 1. Install Node.js 18 or later.
